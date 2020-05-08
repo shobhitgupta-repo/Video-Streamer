@@ -1,0 +1,31 @@
+{
+  "streams": [
+    {
+      "title": "My First Stream",
+      "description": "This is my first stream",
+      "id": 1
+    },
+    {
+      "title": "Second Stream",
+      "description": "Here's second Stream",
+      "id": 2
+    },
+    {
+      "title": "Stream 3",
+      "description": "Stream with UserID edited",
+      "id": 3
+    },
+    {
+      "title": "Stream 4 ",
+      "description": "This is to test history object",
+      "userId": "114257524494550198577",
+      "id": 5
+    },
+    {
+      "title": "Stream 5",
+      "description": "This is to test form refactor",
+      "userId": "114257524494550198577",
+      "id": 6
+    }
+  ]
+}
